@@ -1,0 +1,15 @@
+pip install pandas
+pip install random
+pip install sklearn
+pip install textblob
+pip install np
+pip install plt
+pip install sns
+pip install re
+pip install stopwords
+pip install porterstemmer
+pip install WordNetLemmatizer
+pip install spell
+pip install string
+pip install nltk
+pip install warnings 

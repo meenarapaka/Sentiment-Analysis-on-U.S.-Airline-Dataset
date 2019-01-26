@@ -1,0 +1,4 @@
+This project is a Kaggle competition which tries to implement sentiment analysis on U.S Airline dataset 
+based on the reviews.
+
+We have used Visualization and Word cloud based on a Third party source (Kaggle).
